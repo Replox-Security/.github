@@ -1,2 +1,2 @@
 # Replox Security
-![banner](./reploxBanner.jpeg)
+![Banner Video](./replox.mp4){loop=""}
